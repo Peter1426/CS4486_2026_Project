@@ -110,9 +110,9 @@ CS4486_2026_Project/
 ├── CS4486_Project.pdf                     # Project report
 │
 ├── src/
-│   └── YouTube_Spam_Classifier.ipynb     # Main Jupyter notebook
+│   └── YouTube_Spam_Classifier.ipynb     # Jupyter notebook
 │
-├── data/                                  # Data files (not included in repo)
+├── data/
 │   ├── Topic1-youtube_spam_train.csv     # Training data (798 samples)
 │   └── Topic1-youtube_spam_test.xlsx     # Test data (202 samples)
 │
